@@ -62,9 +62,9 @@
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Piyush-08-bot>
-            <img src=https://avatars.githubusercontent.com/u/183766412?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Piyush-08-bot/>
+            <img src=https://avatars.githubusercontent.com/u/183766412?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Piyush Raj/>
             <br />
-            <sub style="font-size:14px"><b>Piyush-08-bot</b></sub>
+            <sub style="font-size:14px"><b>Piyush Raj</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -83,9 +83,9 @@
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/rxdrxksh01>
-            <img src=https://avatars.githubusercontent.com/u/183893632?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=rxdrxksh01/>
+            <img src=https://avatars.githubusercontent.com/u/183893632?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=RUDRAKSH SHARMA/>
             <br />
-            <sub style="font-size:14px"><b>rxdrxksh01</b></sub>
+            <sub style="font-size:14px"><b>RUDRAKSH SHARMA</b></sub>
         </a>
     </td>
 </tr>
