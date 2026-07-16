@@ -31,7 +31,7 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/PratayaSilla>
+        <a href=https://github.com/proprataya>
             <img src=https://avatars.githubusercontent.com/u/185405536?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Prataya />
             <br />
             <sub style="font-size:14px"><b>Prataya </b></sub>
